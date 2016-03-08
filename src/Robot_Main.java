@@ -27,6 +27,9 @@ public class Robot_Main {
 		
 		increasePower.rechargeSource();
 		
+		fiveSecDelay.fiveSeconds();
+		
+		increasePower.checkStatus();
 		
 		
 	}

@@ -13,6 +13,10 @@ public class power {
 				System.out.println("I'm all out of juice");
 			}
 	}
-	
-	}	
+		
+		}	
+			public void checkStatus() {
+
+				System.out.println("Battery power full. Time for another walk!");
+			}
 }

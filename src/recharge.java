@@ -15,6 +15,7 @@ public class recharge extends power {
 				System.out.println("I'm all juiced up!");
 	}
 	
+	
 }
 }
 }
